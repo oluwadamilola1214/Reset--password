@@ -1,0 +1,85 @@
+.link-sent-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  /* padding: 20px; */
+  text-align: center;
+}
+
+.logo-sectio{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.log{
+  width: 50px;
+  height: auto;
+
+}
+
+
+.nep {
+  filter: brightness(0%) invert(0%);
+  height: auto;
+}
+
+  
+
+
+
+.link-sent-content {
+  padding: 40px;       
+  width: 90%;          
+  max-width: 350px;    
+  text-align: center;  
+}
+
+.link-sent-heading {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #000000;
+
+}
+.link-sent-tex {
+  font-size: 16px;
+  margin: 10px 0;
+  color: #353535B2;
+
+}
+
+.link-sent-text {
+  font-size: 16px;
+  margin: 10px 0;
+  color: black;
+}
+
+.spam-link {
+  color: #3dab74;
+  cursor: pointer;
+}
+
+.continue-button {
+  margin-top: 20px;
+  width: 100%;
+  padding: 10px 20px;
+  background-color: #053225;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.signin-link{
+  color: #353535B2;
+}
+.signin-link a {
+  color: #1946d8;
+}
+
+
+
